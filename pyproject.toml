@@ -1,0 +1,16 @@
+[project]
+name = "mein-agent"
+version = "0.1.0"
+description = "Deutschsprachiger Kundensupport-Agent auf Basis des Claude Agent SDK"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "claude-agent-sdk>=0.2.123",
+    "python-dotenv>=1.0.1",
+]
+
+[dependency-groups]
+dev = []
+
+[tool.uv]
+package = false

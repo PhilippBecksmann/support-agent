@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.uv/
+
+# uv.lock wird bewusst NICHT ignoriert: Dies ist eine Anwendung, keine Library –
+# die Lockfile gehört ins Repo, damit alle dieselben Versionen installieren.
