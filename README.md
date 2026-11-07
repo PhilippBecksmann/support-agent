@@ -1,4 +1,4 @@
-# Mein_Agent — deutschsprachiger Kundensupport-Agent
+# Support-Agent — deutschsprachiger Kundensupport-Agent
 
 Ein Support-Agent auf Basis des [Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk/python)
 (Python, `claude-agent-sdk` 0.2.123). Er antwortet ausschließlich auf Deutsch und
